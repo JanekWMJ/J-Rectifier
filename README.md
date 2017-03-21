@@ -16,3 +16,4 @@ Another feature that makes a great difference between the plugins is auto zoomin
 
 Jan Mądrzyk
 janmadrzyk@gmail.com
+https://github.com/JanekWMJ/
