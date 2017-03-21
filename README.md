@@ -3,7 +3,7 @@
 
 Here's a repository of the J Rectifier plugin created by Jan Mądrzyk.
 
-J Rectifier is a QGIS plugin, compatible with 2.x wersions of QGIS software
+J Rectifier is a QGIS plugin, compatible with 2.x versions of QGIS software
 
 ----Little bit more about the plugin-----
 
