@@ -15,3 +15,4 @@ The main difference between the tools is approach to adding Ground Control Point
 Another feature that makes a great difference between the plugins is auto zooming. After clicking the first from pair of analogical points, the feature moves the view in the other canvas to the area where the next point will probably occur. User doesn’t need to spend time on searching the spot all over the raster.
 
 Jan Mądrzyk
+janmadrzyk@gmail.com
