@@ -1,0 +1,8 @@
+######## J RECTIFIER CHANGELOG ########
+by Jan M¹drzyk
+
+ver 1.1, 2017.03.29
+- Information button added (it opens Documentation.pdf)
+- Video tutorial recorded (link in Documentation.pdf)
+- Uninstallation problem solved (so far plugin couldn't had been proparely uninstalled by QGIS plugin menager)
+- Overwritting issue solved (so far overwritting output file led to errors)
